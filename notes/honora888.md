@@ -339,7 +339,7 @@ JavaScript/TS、Node.js、Python、Rust、Go、SQL、计算机基础、React/Vue
 
 1.  合约语言：Solidity（主流）、Vyper、Rust（Solana）
     
-2.  Solidity 核心数据类型（对应你之前学习内容）
+2.  Solidity 核心数据类型
     
     -   bool：布尔判断
         
