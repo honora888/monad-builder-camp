@@ -923,7 +923,7 @@ Idea → Draft → Review → Last Call → Final / Stagnant / Withdrawn / Livin
 
 ### 资源说明
 
-页面内容解析失败，补充行业通用价值：以太坊核心开发者社区，EIP 提案讨论、底层技术辩论聚集地。
+以太坊核心开发者社区，EIP 提案讨论、底层技术辩论聚集地。
 
 ### 研究价值
 
