@@ -1042,7 +1042,7 @@ Idea → Draft → Review → Last Call → Final / Stagnant / Withdrawn / Livin
 4.  产出参考：模仿范式撰写 Monad、以太坊扩容、DeFi 赛道深度报告。
     
 
-## 2\. Messari Research（[https://messari.io/research）——](https://messari.io/research%EF%BC%89%E2%80%94%E2%80%94) 行业标准化研报模板（网页解析失败）
+## 2\. Messari Research（[https://messari.io/research）——](https://messari.io/research%EF%BC%89%E2%80%94%E2%80%94) 行业标准化研报模板
 
 ### 行业通用核心能力（研究员必备）
 
@@ -1059,7 +1059,7 @@ Idea → Draft → Review → Last Call → Final / Stagnant / Withdrawn / Livin
 
 搭建通用协议研究报告模板，建立完整行业宏观分析框架。
 
-## 3\. DefiLlama（[https://defillama.com/）——](https://defillama.com/%EF%BC%89%E2%80%94%E2%80%94) 生态数据基准（境外访问受限）
+## 3\. DefiLlama（[https://defillama.com/）——](https://defillama.com/%EF%BC%89%E2%80%94%E2%80%94) 生态数据基准
 
 ### 核心数据指标（生态分析核心数据源）
 
