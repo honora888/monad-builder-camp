@@ -277,7 +277,7 @@ V4 平台化插件思路，是后续在 Monad 高性能链开展 DeFi 开发的�
 
 * * *
 
-# 三、Dev Builder
+# Dev Builder
 
 ## 学习目标
 
